@@ -3,4 +3,8 @@ class ApplicationController < ActionController::Base
   def method_name2
     
   end
+
+  def method_name3
+    
+  end
 end
